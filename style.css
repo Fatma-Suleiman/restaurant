@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+
+}
+h1{
+    color: chocolate;
+    font-size: 30px;
+    font-style:oblique
+}
+h2{
+    color:darkblue ;
+    font-size: 25px;
+    font-style: italic;
+}
+p{
+    color:black;
+    font-size: 25px;
+    font-style: normal;
+}
+ol{
+    color: black;
+    font-size: 20px;
+    font-style: italic;
+}
+
+
